@@ -1,0 +1,4 @@
+name: ee
+channels:
+  - defaults
+prefix: /home/raph/miniconda3/envs/ee
