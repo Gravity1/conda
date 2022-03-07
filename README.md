@@ -1,3 +1,6 @@
+REQUIREMENTS
+  Install conda by  following this guide: https://developers.google.com/earth-engine/guides/python_install-conda
+
 replicate the environment by running the following conda command.
 
 conda env create -f path-to-ee-shared-env.yml
